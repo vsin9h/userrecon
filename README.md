@@ -10,21 +10,10 @@
 ## Installation:
 ```
 apt update
-```
-```
 apt upgrade -y
-```
-```
 apt install git -y
-```
-```
 git clone https://github.com/singhvijayp/userrecon.git
-```
-```
 cd userrecon
-```
-```
 bash userrecon.sh
 ```
-
 ### Now just put the username and it will start reconing the username on different social networks.
