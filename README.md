@@ -12,7 +12,7 @@
 apt update
 apt upgrade -y
 apt install git -y
-git clone https://github.com/singhvijayp/userrecon.git
+git clone https://github.com/vsin9h/userrecon.git
 cd userrecon
 bash userrecon.sh
 ```
